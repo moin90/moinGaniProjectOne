@@ -701,6 +701,7 @@ body {
 
 .blogText {
     border-top: 1px solid black;
+    color: #999;
 }
 .blogText p {
     width: 94.5%;
@@ -710,6 +711,7 @@ body {
 .blogText p:nth-of-type(1) {
     color: black;
 }
+
 
 .share {
     font-family: 'Playfair Display', 'serif';
